@@ -9,7 +9,7 @@
 
         <!-- Application-specific resources -->
 
-        <x:String x:Key="AppName">BamMockUp</x:String>
+        <x:String x:Key="AppName">Budget Analyzer</x:String>
 
     </Application.Resources>
 </Application>
